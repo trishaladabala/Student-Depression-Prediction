@@ -33,20 +33,9 @@ Each entry represents an individual student's responses, with the target variabl
 
 ## 🧠 Modeling Approach
 
-Several machine learning algorithms were evaluated, including:
+Machine learning algorithm used
 
 - Logistic Regression
-- Random Forest
-- Support Vector Machines (SVM)
-- XGBoost
-
-The models were assessed based on:
-
-- Accuracy
-- Precision
-- Recall
-- F1-score
-- ROC-AUC Score
 
 The best-performing model achieved an **accuracy of 84.9%**, indicating robust predictive capabilities.
 
