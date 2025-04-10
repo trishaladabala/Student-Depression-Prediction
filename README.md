@@ -1,6 +1,3 @@
-Certainly! Based on your Kaggle notebook, here's a tailored `README.md` for your GitHub repository:
-
----
 
 # Student Depression Prediction
 
