@@ -1,4 +1,3 @@
-Certainly! Based on your Kaggle notebook, here's a tailored `README.md` for your GitHub repository:
 
 ---
 
@@ -86,10 +85,4 @@ The best-performing model achieved an **accuracy of 84.9%**, indicating robust p
 - [Hopesb on Kaggle](https://www.kaggle.com/datasets/hopesb) for providing the dataset.
 - The open-source community for tools and libraries that facilitated this project.
 
-## 📬 Contact
 
-For questions, feedback, or collaboration opportunities, please reach out via [your contact information].
-
----
-
-Would you like assistance in generating a `requirements.txt` file or guidance on deploying the model? 
